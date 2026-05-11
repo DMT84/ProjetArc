@@ -37,12 +37,9 @@ nodes.csv / arcs.csv : Données sources du réseau routier d'Avignon.
 
 ⚙️ Compilation et Exécution
 Pour compiler le projet, utilise un compilateur C++ (comme g++) :
-
-Bash
 g++ -o projetAMS main.cpp projet.cpp
 Puis lance l'exécutable :
-
-Bash
 ./projetAMS
+
 👥 Auteur
 Dimitri Botella (Licence 2 Informatique, 2024-2025)
